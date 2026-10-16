@@ -1,0 +1,4 @@
+Receipt Number,Closed At,Net Total,Guest Email,Guest Phone,Guest Name,Guest ID,Items
+TX-10001,2026-10-01 18:45:00,24.50,alex@example.com,07123456789,Alex Example,SR-1001,"Classic burger; fries"
+TX-10002,2026-10-02 19:10:00,18.00,sam@example.com,07987654321,Sam Example,SR-1002,"Chicken burger; soft drink"
+TX-10003,2026-10-03 20:05:00,32.75,alex@example.com,07123456789,Alex Example,SR-1001,"Double burger; sides"
